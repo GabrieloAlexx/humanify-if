@@ -64,7 +64,7 @@
   .feature-box-1-left>div {min-height: 270px;width: 100%;background: var(--light-color);flex-grow: 1;height: 50%;}
   .feature-box-1-left {display: flex;flex-flow: column;gap: 13px;width: 100%;}
   .features-body {margin-top: 57px;display: flex;flex-direction: column;gap: 15px;}
-  .feature-box-2 {height: 400px;width: 100%;}
+  .feature-box-2 {height: 323px;width: 100%;}
   .feature-box-3 {display: flex;gap: 15px;}
   .feature-box-3>div{background-color: var(--light-color);width: 100%;}
   .feature-box-4 {height: 480px;background-color: var(--light-color);width: 100%;}
@@ -82,7 +82,7 @@
   .fb-1-right-image {flex-grow: 1;border-radius:  20px 0px 0px 20px;overflow: hidden;}
   .fb-1-right-image>img {height: 100%;width: 100%;object-fit: cover;}
   .fb-1-right-content {padding: 30px;padding-left: 0;}
-  .feature-box-2-card{background-image: url(/include/images/feature/feature-box-2.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;height: 100%;width: 100%;padding: 44px 25px;}
+  .feature-box-2-card{background-image: url(/include/images/feature/hb-3-card-bg.png);background-repeat: no-repeat;background-size: cover;background-position: center;height: 100%;width: 100%;padding: 44px 25px;}
   .feature-box-2-card .feature-box-text {color: #BDBDBD;max-width: 230px;}
   .feature-box-2-card .feature-box-text>h5 {color: var(--white);}
   .feature-box-3-card {height: 100%;display: flex;flex-flow: column;}

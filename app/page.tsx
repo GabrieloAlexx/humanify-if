@@ -125,15 +125,11 @@ export default function Home() {
           </div>
           <div className="feature-box-2 radius-default">
             <div className="feature-box-2-card" style={{
-                backgroundImage: "url(include/images/hero/hb-2-card-bg2.png)"
-              }}>
-              <div className="feature-box-text">
-                <h5>Monthly Skins</h5>
-                <p>
-                  We add new pre-made skins every month. Use them to
-                  effortlessly bring your characters to life.
-                </p>
-              </div>
+                backgroundImage: "url(include/images/hero/hb-3-card-bg.png)",
+            }}>
+                <div className="feature-box-text [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]">
+                    <h5>Currently more than 10 different skins available!</h5>
+                </div>
             </div>
           </div>
           <div className="feature-box-3">
