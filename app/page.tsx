@@ -23,7 +23,9 @@ export default function Home() {
         <div className="hero-content">
           <div className="hero-box-1 radius-default">
             <div className="hb-1-card">
-              <div className="hb-1-card-bg"></div>
+              <div className="hb-1-card-bg" style={{
+                backgroundImage: "url(include/images/hero/hb-1-card-bg.png)"
+              }}></div>
               <div className="hb-1-card-inner">
                 <p>
                   Humanify is built on Daz3D Genesis 9 mesh and works with any
@@ -39,7 +41,9 @@ export default function Home() {
           <div className="hero-box-2">
             <div className="hero-box-2-left radius-default">
               <div className="hero-box-2-card">
-                <div className="hb-2-card-bg"></div>
+                <div className="hb-2-card-bg" style={{
+                backgroundImage: "url(include/images/hero/hb-2-card-bg1.png)"
+              }}></div>
                 <div className="hb-2-card-inner">
                   <p>WORKS AUTOMATICALLY WITH GENESIS 9 MESHES</p>
                   <div className="hb-2-card-logo">
@@ -50,7 +54,9 @@ export default function Home() {
             </div>
             <div className="hero-box-2-right radius-default">
               <div className="hero-box-2-card">
-                <div className="hb-2-card-bg"></div>
+                <div className="hb-2-card-bg" style={{
+                backgroundImage: "url(include/images/hero/hb-2-card-bg2.png)"
+              }}></div>
                 <div className="hb-2-card-inner">
                   <p>WITH ZWRAP HUMANIFY CAN WORK WITH ANY MESH</p>
                   <div className="hb-2-card-logo">
@@ -118,7 +124,9 @@ export default function Home() {
             </div>
           </div>
           <div className="feature-box-2 radius-default">
-            <div className="feature-box-2-card">
+            <div className="feature-box-2-card" style={{
+                backgroundImage: "url(include/images/hero/hb-2-card-bg2.png)"
+              }}>
               <div className="feature-box-text">
                 <h5>Monthly Skins</h5>
                 <p>
@@ -179,7 +187,9 @@ export default function Home() {
             </div>
           </div>
           <div className="feature-box-5 radius-default">
-            <div className="feature-box-5-card">
+            <div className="feature-box-5-card" style={{
+                backgroundImage: "url(include/images/feature/feature-box-5.png)"
+              }}>
               <div className="feature-box-text">
                 <h5>Elevate your renders</h5>
                 <p>
