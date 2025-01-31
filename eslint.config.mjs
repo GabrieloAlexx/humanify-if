@@ -22,7 +22,7 @@ const eslintConfig = [
     ],
     rules: {
       // Disable rules that might be causing issues
-    //   "@next/next/no-img-element": "off",
+      "@next/next/no-img-element": "off",
       "react/no-unescaped-entities": "off"
     }
   }
