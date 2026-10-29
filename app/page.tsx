@@ -21,7 +21,7 @@ export default function Home() {
           humans with one-click.
         </p>
         <div className="hero-content">
-          <div className="hero-box-1 radius-default">
+          <div className="hero-box-1 radius-default">h
             <div className="hb-1-card">
               <div className="hb-1-card-bg" style={{
                 backgroundImage: "url(include/images/hero/hb-1-card-bg.png)"
@@ -246,7 +246,7 @@ export default function Home() {
                   Blender renders, especially when it came to human models.
                   Humanify has changed the game for me.
                 </p>
-                <h6>Jonathan Plesel</h6>
+                <h6>Marcus Reinholt</h6>
               </div>
             </div>
             <div className="testimonial-box-content" style={{
